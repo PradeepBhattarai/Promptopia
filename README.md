@@ -1,12 +1,28 @@
-# Next.js 13 Full Course 2023 | Build and Deploy a Full Stack App Using the Official React Framework
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+<b>Discover & Share AI-Powered Prompts</b>
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://nextjs.org/docs)
-### [🚀 Land your dream programming job in 6 months](https://nextjs.org/docs)
+Promptopia is an open-source AI prompting tool for modern world to discover, create, and share creative prompts
 
-## Introduction
-Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 13 application.
- 
+![image](https://github.com/ShadAfridi/promptopia/assets/65189662/b28eab6b-670b-4092-87c3-873ded05f2f0)
 
-## Want to land your dream programming job in 3 - 6 months?
 
+
+
+
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+First, run the development server:
+
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `src/app/page.tsx`. The page auto-updates as you edit the file.
